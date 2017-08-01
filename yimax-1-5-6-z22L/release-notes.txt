@@ -1,0 +1,13 @@
+YiMAX 2k30/1080p60 scripts by nutsey for Z22L/23L/25L Xiaomi Yi action camera with 1.5.6 firmware.
+
+This script constantly removes 'watercolor' look caused by excessive in-cam image treatment routines. 
+It also provides 'flat' picture which can be used more efficiently during a footage postprocess.
+Additionally, the script enables the most preferred bitrate mode and settings reaching the limits of the hardware.
+
+How to use: Copy both autoexec.ash and gopraawn.conf files from 2k30 or 1080p60 folder to the root of your memory card. Turn the camera on, wait until the wifi led starts to blink. It will blink continuously indicating the script is running.
+
+How to uninstall: Remove or rename 2 files listed above.
+
+Check goprawn.com website for the latest updates and discussions.
+
+Release date: 17-01-2017.
